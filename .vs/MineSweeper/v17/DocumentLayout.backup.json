@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\62908\\source\\repos\\MineSweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\minesweeper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\minesweeper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\initGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\initGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\inGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\inGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\initImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\initImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\EndGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF9FA7F-DE51-4AB5-B6C4-85DEEC2DF7E0}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\EndGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minesweeper.h",
+              "DocumentMoniker": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\minesweeper.h",
+              "RelativeDocumentMoniker": "MineSweeper\\minesweeper.h",
+              "ToolTip": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\minesweeper.h*",
+              "RelativeToolTip": "MineSweeper\\minesweeper.h*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T09:26:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "initGame.cpp",
+              "DocumentMoniker": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\initGame.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\initGame.cpp",
+              "ToolTip": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\initGame.cpp",
+              "RelativeToolTip": "MineSweeper\\initGame.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T07:12:39.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inGame.cpp",
+              "DocumentMoniker": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\inGame.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\inGame.cpp",
+              "ToolTip": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\inGame.cpp",
+              "RelativeToolTip": "MineSweeper\\inGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T09:18:22.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "initImage.cpp",
+              "DocumentMoniker": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\initImage.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\initImage.cpp",
+              "ToolTip": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\initImage.cpp",
+              "RelativeToolTip": "MineSweeper\\initImage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T09:18:19.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\main.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\main.cpp",
+              "ToolTip": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\main.cpp",
+              "RelativeToolTip": "MineSweeper\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T09:10:28.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EndGame.cpp",
+              "DocumentMoniker": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\EndGame.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\EndGame.cpp",
+              "ToolTip": "C:\\Users\\62908\\source\\repos\\MineSweeper\\MineSweeper\\EndGame.cpp",
+              "RelativeToolTip": "MineSweeper\\EndGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T07:15:10.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

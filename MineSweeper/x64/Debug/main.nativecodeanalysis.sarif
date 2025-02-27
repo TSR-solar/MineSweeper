@@ -1,0 +1,83 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.40.33814.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/62908/source/repos/minesweeper/minesweeper/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "ad61f45342db805ae1dafe5b0f8f3d23e1e9ce53882e8254030f24168f76b515"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/62908/source/repos/minesweeper/minesweeper/minesweeper.h"
+          },
+          "hashes": {
+            "sha-256": "7b8763ad8f0d76e07ce76e8f7511b4ee4fadf6bc2b29a4e1c7a569caaad46b09"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/microsoft visual studio/2022/community/vc/auxiliary/vs/include/graphics.h"
+          },
+          "hashes": {
+            "sha-256": "af66dacd9304395a6a92986e00ef4be4e21864d5663cd0d4adff77a9c1790d0e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/microsoft visual studio/2022/community/vc/auxiliary/vs/include/easyx.h"
+          },
+          "hashes": {
+            "sha-256": "8996bfc4776f8839289aac38bfc1b75276c16f126f566ff7933b634a9c290cc3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/62908/source/repos/minesweeper/minesweeper/item.h"
+          },
+          "hashes": {
+            "sha-256": "41c44e842b1c12bc2af81e8aea2923befb902a50e891a8a72472d6d3107d75ee"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/62908/source/repos/minesweeper/minesweeper/button.h"
+          },
+          "hashes": {
+            "sha-256": "46750c7986b139c15bc50309f8a7e90784f4b61da0b65780f34f24a297a1793d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/62908/source/repos/minesweeper/minesweeper/mode.h"
+          },
+          "hashes": {
+            "sha-256": "e5e58428798f04eba44584cb58b23214d8e2a309ef019a78ef5f017370a2652d"
+          }
+        }
+      ]
+    }
+  ]
+}
