@@ -10,11 +10,6 @@ C++
 ### 参考资料
 > EasyX官方中文教程： https://docs.easyx.cn/zh-cn/intro
 
-### 项目下载
-> 百度网盘： https://pan.baidu.com/s/1dhvY02UOOAVBnHm2uqUs5Q 提取码: iube
-
-> 夸克网盘： https://pan.quark.cn/s/533f41786df9 提取码：Fx7i
-
 ### 项目截图
 ![开始界面](mine1.png)
 
